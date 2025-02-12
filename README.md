@@ -25,7 +25,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 - Create Virtual Machines (Microsoft Azure)
 - Install osTicket files
-- Item 3
+- Install MySQL/ setup user name and password
 - Item 4
 - Item 5
 
