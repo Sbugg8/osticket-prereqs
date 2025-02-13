@@ -91,11 +91,19 @@ once MySQL is installed, open IIS as admin and register PHP from within the IIS.
 
 Install osTicket v1.15.8
 From the “osTicket-Installation-Files” folder, unzip “osTicket-v1.15.8.zip” and copy the “upload” folder into “c:\inetpub\wwwroot”
-Within “c:\inetpub\wwwroot”, Rename “upload” to "osticket".
+Within “c:\inetpub\wwwroot”, Rename “upload” to "osticket". Then go to "sites" ->default -> osTicket and right click Browse *80.
+
+
+![image](https://github.com/user-attachments/assets/fd032aa6-8e98-4370-b803-4af74800c2f0)
 
 
 
-![image](https://github.com/user-attachments/assets/53bfa281-32a1-4e73-8541-3ee6a46a8522)
+
+Next, rename ost-config.php from: C:\inetpub\wwwroot\osTicket\include\ost-sampleconfig.php and change it to: C:\inetpub\wwwroot\osTicket\include\ost-config.php
+
+
+
+![image](https://github.com/user-attachments/assets/755df1db-1044-4af3-80b0-816b4ab00a79)
 
 
 
