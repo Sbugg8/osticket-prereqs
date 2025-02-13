@@ -75,5 +75,8 @@ From the osticket installation files folder, install PHP manager for IIS (PHPMan
 ![image](https://github.com/user-attachments/assets/35a3e803-bea6-4150-bda6-0380c691e14c)
 
 
-From the “osTicket-Installation-Files” folder, unzip PHP 7.3.8 (php-7.3.8-nts-Win32-VC15-x86.zip) into the “C:\PHP” folder
+create the directory C:\PHP and from the “osTicket-Installation-Files” folder, unzip PHP 7.3.8 (php-7.3.8-nts-Win32-VC15-x86.zip) into the “C:\PHP” folder
+
+![image](https://github.com/user-attachments/assets/649173f9-1613-4c5f-9ec5-a0b65eef1ef8)
+
 
