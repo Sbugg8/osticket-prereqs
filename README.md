@@ -57,3 +57,9 @@ Inside of the remote dektop, open the internet to https://drive.google.com/uc?ex
 
 ![image](https://github.com/user-attachments/assets/301b48b1-45de-4f70-8da9-1c93a3ce639b)
 
+Next we will enable IIS (internet information services) in windows (remote desktop) with CGI.
+
+![image](https://github.com/user-attachments/assets/ef7d8a6a-d401-400f-b6d8-27d274b82f52)
+
+
+
