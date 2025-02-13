@@ -57,9 +57,14 @@ Inside of the remote dektop, open the internet to https://drive.google.com/uc?ex
 
 ![image](https://github.com/user-attachments/assets/301b48b1-45de-4f70-8da9-1c93a3ce639b)
 
-Next we will enable IIS (internet information services) in windows (remote desktop) with CGI.
+Next we will enable IIS (internet information services) in windows (remote desktop) with CGI by going to Control Panel and then go to programs and select "turn windows features on/off".
 
 ![image](https://github.com/user-attachments/assets/ef7d8a6a-d401-400f-b6d8-27d274b82f52)
+
+Now that we have IIS installed, we are going to install CGI. in the same folder, expand the IIS folder and you will see World Wide Web Services. This is a dependency that osticket needs to work.
+
+![image](https://github.com/user-attachments/assets/d36f960e-4a68-4ca0-9596-f83a1547a0fc)
+
 
 
 
