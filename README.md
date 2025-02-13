@@ -105,6 +105,17 @@ Next, rename ost-config.php from: C:\inetpub\wwwroot\osTicket\include\ost-sample
 
 ![image](https://github.com/user-attachments/assets/755df1db-1044-4af3-80b0-816b4ab00a79)
 
+Once the files have been renamed, next you want to open file explorer to give the software permissions in ost-config.php. Select disable inheritance -> Remove All and add 
+new permissions -> Everyone -> All. It is important to note that in a real life system, it is not a good idea to select "everyone" but for this tutorial we will be allowing everyone to have access and then we can customize permissions inside of osTicket.
+
+![image](https://github.com/user-attachments/assets/86dc1a36-9489-47c0-861f-563b1bb82fb2)
+
+Once you have given the software permissions, your screen should look like the following. Inside of the osTicket basic installation page, you will be able to create an admin.
+
+![image](https://github.com/user-attachments/assets/e7752b5e-5345-446f-8284-2234253d9b32)
+
+
+
 
 
 
