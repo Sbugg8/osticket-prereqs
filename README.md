@@ -47,9 +47,13 @@ Once your deployment of your virtual machine is completed, then you will go to o
 
 ![image](https://github.com/user-attachments/assets/922a0b74-2270-4840-bf7a-24f4b18e69a1)
 
+After remote desktop is installed, take the IP address from your virtual machine and select "add PC" on your remote desktop device and input the IP address
+
+![image](https://github.com/user-attachments/assets/9688de5b-75b5-44ad-bc8d-8a5d2007b655)
 
 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
+Inside of the remote dektop, open the internet to https://drive.google.com/uc?export=download&id=1b3RBkXTLNGXbibeMuAynkfzdBC1NnqaD and download the zip file. Once the zip file is downloaded a zip folder will be placed on your desktop. Select extract all from this folder.
+
+![image](https://github.com/user-attachments/assets/301b48b1-45de-4f70-8da9-1c93a3ce639b)
+
