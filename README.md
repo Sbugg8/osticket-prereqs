@@ -27,7 +27,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - Install osTicket files
 - Enable IIS with CGI
 - Install C++ drive redistributable
-- Install MySQL/ setup user name and password
+- Install MySQL
   
 
 <h2>Installation Steps</h2>
@@ -88,6 +88,17 @@ From the “osTicket-Installation-Files” folder, install VC_redist.x86.exe (al
 once MySQL is installed, open IIS as admin and register PHP from within the IIS.
 
 ![image](https://github.com/user-attachments/assets/070b7e2e-706a-42e7-ab22-168f93396636)
+
+Install osTicket v1.15.8
+From the “osTicket-Installation-Files” folder, unzip “osTicket-v1.15.8.zip” and copy the “upload” folder into “c:\inetpub\wwwroot”
+Within “c:\inetpub\wwwroot”, Rename “upload” to "osticket".
+
+
+
+![image](https://github.com/user-attachments/assets/53bfa281-32a1-4e73-8541-3ee6a46a8522)
+
+
+
 
 
 
