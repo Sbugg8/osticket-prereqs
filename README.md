@@ -25,9 +25,9 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 - Create Virtual Machines (Microsoft Azure)
 - Install osTicket files
+- Enable IIS with CGI
 - Install MySQL/ setup user name and password
-- Item 4
-- Item 5
+  
 
 <h2>Installation Steps</h2>
 
@@ -74,4 +74,6 @@ From the osticket installation files folder, install PHP manager for IIS (PHPMan
 
 ![image](https://github.com/user-attachments/assets/35a3e803-bea6-4150-bda6-0380c691e14c)
 
+
+From the “osTicket-Installation-Files” folder, unzip PHP 7.3.8 (php-7.3.8-nts-Win32-VC15-x86.zip) into the “C:\PHP” folder
 
