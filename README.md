@@ -47,7 +47,7 @@ Once your deployment of your virtual machine is completed, then you will go to o
 
 ![image](https://github.com/user-attachments/assets/922a0b74-2270-4840-bf7a-24f4b18e69a1)
 
-After remote desktop is installed, take the IP address from your virtual machine and select "add PC" on your remote desktop device and input the IP address
+After remote desktop is installed, take the IP address from your virtual machine and select "add PC" on your remote desktop device and input the IP address.
 
 ![image](https://github.com/user-attachments/assets/9688de5b-75b5-44ad-bc8d-8a5d2007b655)
 
@@ -65,6 +65,13 @@ Now that we have IIS installed, we are going to install CGI. in the same folder,
 
 ![image](https://github.com/user-attachments/assets/d36f960e-4a68-4ca0-9596-f83a1547a0fc)
 
+After expanding the World Wide Web Services folder, you want to then scroll to Application Development Features and expand that folder and select CGI.
 
+![image](https://github.com/user-attachments/assets/560061f8-9459-40a7-9e2d-7ab7ab2929a5)
+
+
+From the osticket installation files folder, install PHP manager for IIS (PHPManagerForIIS_V1.5.0.msi) as well as installing the Rewrite Module (rewrite_amd64_en-US.msi).
+
+![image](https://github.com/user-attachments/assets/35a3e803-bea6-4150-bda6-0380c691e14c)
 
 
